@@ -36,7 +36,7 @@ class j_e_dimest
 		}*/
 	
 	
-		chiled ol=new chiled();
+		/*chiled ol=new chiled();
 		ol.geting();
 		Console.Write("Enter number of rows=");
         int r = Convert.ToInt32(Console.ReadLine());
@@ -52,7 +52,7 @@ class j_e_dimest
                 Console.Write("enter value for [" + i + "][" + j + "]: ");
                 j_array[i][j] = Convert.ToInt32(Console.ReadLine());
             }
-        }
+        }*/
 		
 		
 		
@@ -92,3 +92,4 @@ public class parent
 		
 		
 }
+
